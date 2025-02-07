@@ -1,18 +1,14 @@
 # How to Run This Project
 
 ## Prerequisites
-<<<<<<< HEAD
-- Python 3.12 installed
-=======
-- Python 3.13 installed
->>>>>>> 3aa945b6787d00f06894e7e3a5c95a16b60f71ef
+- Python 3.12 
 - Required Python packages (listed in `requirements.txt`)
 
 ## Steps to Run
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Bike_Share_System_Analysis.git
+    git clone https://github.com/destio-ivt/Bike_Share_System_Analysis.git
     cd Bike_Share_System_Analysis
     ```
 
