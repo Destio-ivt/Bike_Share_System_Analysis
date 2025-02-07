@@ -1,7 +1,7 @@
 # How to Run This Project
 
 ## Prerequisites
-- Python 3.x installed
+- Python 3.12 installed
 - Required Python packages (listed in `requirements.txt`)
 
 ## Steps to Run
