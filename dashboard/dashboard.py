@@ -49,7 +49,7 @@ def format_large_number(value, pos):
     return str(value)
 
 # Load cleaned dataset
-df = pd.read_csv("cleaned_main_data.csv")
+df = pd.read_csv("dashboard/cleaned_main_data.csv")
 
 # Convert date columns to datetime
 df['dteday'] = pd.to_datetime(df['dteday'])
