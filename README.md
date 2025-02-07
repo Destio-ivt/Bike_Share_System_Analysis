@@ -1,7 +1,11 @@
 # How to Run This Project
 
 ## Prerequisites
+<<<<<<< HEAD
 - Python 3.12 installed
+=======
+- Python 3.13 installed
+>>>>>>> 3aa945b6787d00f06894e7e3a5c95a16b60f71ef
 - Required Python packages (listed in `requirements.txt`)
 
 ## Steps to Run
